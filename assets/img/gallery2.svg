@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <rect width="500" height="500" fill="#f5efe8"/>
+  <circle cx="250" cy="180" r="130" fill="#dfe8df"/>
+  <rect x="160" y="250" width="180" height="180" rx="18" fill="#b7cbb4"/>
+  <path d="M175 260 C 200 200, 300 200, 325 260" fill="#d6e3d7"/>
+  <circle cx="205" cy="180" r="16" fill="#6b8e7f"/>
+  <circle cx="295" cy="180" r="16" fill="#6b8e7f"/>
+  <path d="M210 225 Q250 245 290 225" fill="none" stroke="#6b8e7f" stroke-width="8" stroke-linecap="round"/>
+  <text x="250" y="455" text-anchor="middle" font-size="28" fill="#6b8e7f" font-family="Georgia, serif">Gallery</text>
+</svg>
